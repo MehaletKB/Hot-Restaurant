@@ -1,0 +1,27 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "customerName": "Ahmed",
+      "customerEmail": "ahmed@example.com",
+      "customerID": "afhaque89",
+      "phoneNumber": "000-000-0000"
+    },
+    {
+      "customerName": "May",
+      "customerEmail": "May@example.com",
+      "phoneNumber": "000-000-0000",
+      "customerID": "MayCool",
+      "id": 2
+    }
+  ],
+  "reservations": [
+    {
+      "id": 2,
+      "customerName": "Saima",
+      "customerEmail": "saima@example.com",
+      "phoneNumber": "000-000-0000",
+      "customerID": "saimaCool"
+    }
+  ]
+}
